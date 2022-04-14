@@ -6,3 +6,6 @@ def splited_words(word):
     wrd = list(word)
 
     return wrd
+
+source_text = input("text - ")
+
