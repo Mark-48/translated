@@ -9,3 +9,5 @@ def splited_words(word):
 
 source_text = input("text - ")
 
+for w in splited_txt(source_text):
+    print(splited_words(w))
