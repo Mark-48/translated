@@ -17,5 +17,4 @@ for w in splited_txt(source_text):
     #print(splited_txt(source_text))
     for tr in w:
             if tr in eng_word:
-
                 print(rus_word[eng_word.index(tr)])
